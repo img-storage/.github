@@ -1,1 +1,1 @@
-# Personal Image Store
+# Personal Image Store（个人图床）
